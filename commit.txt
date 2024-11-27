@@ -1,0 +1,5 @@
+## in order to commit a change, enter the following commands
+
+git add .
+git commit -m "MESSAGE"
+git push
